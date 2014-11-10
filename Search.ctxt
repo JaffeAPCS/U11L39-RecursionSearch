@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ n
+comment0.target=boolean\ search(int[],\ int)
+comment0.text=\n\ Linear\ search\ through\ an\ array\n\ \n\ @param\ \ x\ \ \ Array\ of\ integers\ to\ search\n\ @param\ \ n\ \ \ Integer\ to\ search\ for\n\ @return\ \ \ \ \ true\ if\ integer\ was\ found\ \n
+comment1.params=x\ n
+comment1.target=boolean\ searchRecursive(int[],\ int)
+comment1.text=\n\ Recursive\ search\ through\ an\ array\n\ \n\ @param\ \ x\ \ \ Array\ of\ integers\ to\ search\n\ @param\ \ n\ \ \ Integer\ to\ search\ for\n\ @return\ \ \ \ \ true\ if\ integer\ was\ found\ \n
+numComments=2
