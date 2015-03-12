@@ -77,6 +77,19 @@ public class SearchTest
     {
         assertFalse(Search.searchRecursive(testArray, -76));
     }
+
+    @Test
+    public void testSearchRecursive4()
+    {
+        assertTrue(Search.searchRecursive(testArray, 13));
+    }
+    
+    @Test
+    public void testSearchRecursive5()
+    {
+        assertTrue(Search.searchRecursive(testArray, 9));
+    }
+    
     
     
 
